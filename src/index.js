@@ -1,7 +1,7 @@
 'use strict';
+import Pagination from './api-js/pages';
 import defaultRequest from './api-js/defaltData';
 import Card from './api-js/card';
-import Pagination from './api-js/pages';
 import modal from './api-js/modalHome';
 export default class Films {
   constructor() {
